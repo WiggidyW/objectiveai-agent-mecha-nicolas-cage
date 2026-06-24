@@ -24,7 +24,8 @@
             "name": "discord",
             "arguments": {
               "mode": "full",
-              "tag": "nicolas-cage"
+              "tag": "nicolas-cage",
+              "max_message_length": 512
             }
           }
         ]
